@@ -1,0 +1,33 @@
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\Alquiler Vehiculos vb.exe.config
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\Alquiler Vehiculos vb.exe
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\Alquiler Vehiculos vb.pdb
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\Alquiler Vehiculos vb.xml
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.vbproj.AssemblyReference.cache
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.Form1.resources
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.Resources.resources
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.vbproj.GenerateResource.cache
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.vbproj.CoreCompileInputs.cache
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.exe
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.xml
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.pdb
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.Form2.resources
+C:\Users\NITRO\Documents\Visual Studio 2022\Proyectos\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.MenuPrincipal.resources
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.exe
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.xml
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.pdb
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\Alquiler Vehiculos vb.exe.config
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\Alquiler Vehiculos vb.exe
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\Alquiler Vehiculos vb.pdb
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\Alquiler Vehiculos vb.xml
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.vbproj.AssemblyReference.cache
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.Form1.resources
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.Form2.resources
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.MenuPrincipal.resources
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.Resources.resources
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.vbproj.GenerateResource.cache
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler Vehiculos vb.vbproj.CoreCompileInputs.cache
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler_Vehiculos_vb.frmCalculoCombustible.resources
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\CombustibleCalculo.dll
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\CombustibleCalculo.pdb
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\bin\Debug\CombustibleCalculo.xml
+C:\Users\Henry\Desktop\Alquiler Vehiculos vb\Alquiler Vehiculos vb\Alquiler Vehiculos vb\obj\Debug\Alquiler.C9C30EDD.Up2Date
